@@ -308,6 +308,10 @@ img {
   text-transform: uppercase;
 }
 
+.btn-icon {
+  margin-left: 1rem;
+}
+
 /* Media queries */
 @media (max-width: 960px) {
   .showcase {
